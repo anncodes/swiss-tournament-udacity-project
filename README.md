@@ -9,8 +9,8 @@ There are several round of matches and each competitor does not play every other
 competitor.  
 
 # Table of contents
-<b>tournament.sql</b>- Database schema which contains the tables and views.
-<b>tournament.py</b> - Provides access to the database which can add, delete or query data.
+<b>tournament.sql</b>- Database schema which contains the tables and views.<br />
+<b>tournament.py</b> - Provides access to the database which can add, delete or query data.<br />
 
 
 
