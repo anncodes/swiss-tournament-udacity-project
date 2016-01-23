@@ -17,12 +17,16 @@ competitor.
 <ul>
   <li>Vagrant VM</li>
   <li>Virtual Box</li>
-  
+  <li>Python 2.7</li>
+  <li>PostgreSQL</li>
 </ul>
 
+<h3>Instructions</h3>
+<ol>
+  <li>Install Vagrant and Virtual Box</li>
+  <li>Use Vagrant virtual machine</li>
+</ol>
 
-
-#Requirements
 
 
 
