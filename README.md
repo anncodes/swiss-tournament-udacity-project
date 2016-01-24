@@ -6,7 +6,7 @@ simulate a Swiss-style tournament.
 
 The Swiss-system tournament uses a non elimination scheme.
 There are several round of matches and each competitor does not play every other
-competitor.  
+competitor.
 
 <h3>Contents Directory</h3>
 <b>tournament.sql</b>- Database schema which contains the tables and views.<br />
@@ -24,8 +24,12 @@ competitor.
 <h3>Instructions</h3>
 <ol>
   <li>Install Vagrant and Virtual Box</li>
-  <li>Use Vagrant virtual machine</li>
+  <li>Copy master files from  <a>fullstack-nanodegree-vm repository</a></li>
+  <li>Create databse in PostgreSQL</li>
+  <li>Edit files using Vagrant by: cd into /vagrant/tournament</li>
 </ol>
+
+
 
 
 
