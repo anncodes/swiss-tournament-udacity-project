@@ -29,6 +29,10 @@ competitor.
   <li>Edit files using Vagrant by: cd into /vagrant/tournament</li>
 </ol>
 
+<h3>References and credits</h3>
+<p>Full Stack NanoDegree Forum especially to Philip- <a>https://discussions.udacity.com/t/returning-two-pairs/14603/2</a></p>
+<p>Stack Overflow forums</p>
+
 
 
 
